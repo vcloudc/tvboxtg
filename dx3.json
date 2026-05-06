@@ -57,6 +57,10 @@
             "name": "newwex"
         },
         {
+            "url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/ls125781003/testboxapi/main/py/api.json",
+            "name": "py"
+        },
+        {
             "url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/ls125781003/testboxapi/main/huban/api.json",
             "name": "小虎斑"
         },
